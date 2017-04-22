@@ -35,7 +35,7 @@ The goals / steps of this project are the following:
 [image15]: ./examples/curve_lines.jpg "Curve"
 [image16]: ./examples/polygon.jpg "Poly"
 [image17]: ./examples/final_image_curvature7.jpg "Final"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./project_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -133,7 +133,7 @@ Next steps are to calucate the curvatue radius of the lanes and position of the 
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here is the link to youtube video Video available at youtube [Youtube Link](https://www.youtube.com/watch?v=yDBVTS5zOSo) Link to the video at the repository [link to my video result](./project_output.mp4)
 
 ---
 
@@ -147,4 +147,4 @@ Secondly finding the optimal thresholds to create the binary image needs alot of
 
  Algorithm would already start wrong if somehow the first histogram peak is not where the lane lines are.
 
- Further improvements can be brough by comparing the distance between the lanes and to make sure that the distance remains constant 
+ Further improvements can be brough by comparing the distance between the lanes and to make sure that the distance remains constant
